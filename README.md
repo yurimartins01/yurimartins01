@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1000&pause=8500&color=0F1014&background=AAEE00&center=true&vCenter=true&width=1000&height=55&lines=<header></header>" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2000&pause=1000&color=AAEE00&background=0F1014&center=true&vCenter=true&multiline=true&width=1000&height=115&lines=Ol%C3%A1%2C+me+chamo+Yuri+Martins!;Sou+Engenheiro+de+Software+%3DD;Com+foco+em+aplicações+Web+%3AP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=AnonymousPro&duration=2000&pause=1000&color=AAEE00&background=0F1014&center=true&vCenter=true&multiline=true&width=1000&height=115&lines=Ol%C3%A1%2C+me+chamo+Yuri+Martins!;Sou+Engenheiro+de+Software+%3DD;Com+foco+em+aplicações+Web+%3AP" alt="Typing SVG" /></a>
 </div>
 
 <br>
